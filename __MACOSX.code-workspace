@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Downloads\\__MACOSX"
+		},
+		{
+			"path": "..\\..\\Downloads"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "__MACOSX"
+	}
+}
